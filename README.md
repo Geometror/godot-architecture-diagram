@@ -13,3 +13,8 @@ The SVG file has been created using [Inkscape](https://inkscape.org/), an open-s
 You need to install the following fonts:
 - Lilita One
 - Roboto
+
+## Trademark disclaimer
+All trademarks, logos and brand names used in the diagram are the property of their respective owners.
+They are used for identification purposes only.
+Use of these trademarks, logos and brand names does not imply endorsement.
